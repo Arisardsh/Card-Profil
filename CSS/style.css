@@ -69,7 +69,7 @@ body::before {
     text-align: center;
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 10px;
 }
 
 .profile-card__desc h1 {
